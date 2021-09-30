@@ -1,0 +1,16 @@
+  body{
+      background-color: black;
+      color:white;
+      text-align: center;
+  }
+  img{
+      border-color: white;
+      border-width: 2px;
+      border-style: dashed;
+  }
+h1{
+    text-decoration-style: wavy;
+}
+h2{
+    text-decoration-style: initial;
+}
